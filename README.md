@@ -84,8 +84,8 @@ Soy **técnico en sistemas** y estudiante de **Ingeniería en Computación (UNTR
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RamaDiBer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaDiBer&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamaDiBer&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RamaDiBer&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RamaDiBer&theme=tokyonight&hide_border=true&locale=es" />
