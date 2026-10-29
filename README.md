@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1557b0,100:4fa3ff&height=200&section=header&text=Ramiro%20Di%20Bernardo&fontSize=46&fontColor=ffffff&desc=IT%20%26%20Data%20%7C%20Power%20BI%20%7C%20Python%20%7C%20Data%20Science%20%26%20AI&descAlignY=62&descSize=17" alt="Ramiro Di Bernardo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1557b0,100:4fa3ff&height=200&section=header&text=Ramiro%20Di%20Bernardo&fontSize=46&fontColor=ffffff&desc=IT%20y%20Datos%20%7C%20Power%20BI%20%7C%20Python%20%7C%20Data%20Science%20e%20IA&descAlignY=62&descSize=17" alt="Ramiro Di Bernardo" />
 </p>
 
 <p align="center">
