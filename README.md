@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/ramiro-dibernardo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ramirodiber@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://cert.efset.org/es/M8Ltox"><img src="https://img.shields.io/badge/English-EF%20SET%20B2-1557b0?style=for-the-badge" alt="EF SET B2" /></a>
-  <img src="https://komarev.com/ghpvc/?username=RamaDiBer&style=for-the-badge&color=1557b0&label=PROFILE%20VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ramiro-DiBernardo&style=for-the-badge&color=1557b0&label=PROFILE%20VIEWS" alt="Profile views" />
 </p>
 
 ---
@@ -37,7 +37,7 @@ Knowing the operation from the inside, I want data to drive decisions: I build *
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🖥️ <a href="https://github.com/RamaDiBer/powerbi-dashboard-ejecutivo-jira">IT Service Desk · Executive Dashboard</a> ⭐</h3>
+      <h3>🖥️ <a href="https://github.com/Ramiro-DiBernardo/powerbi-dashboard-ejecutivo-jira">IT Service Desk · Executive Dashboard</a> ⭐</h3>
       <p>Executive dashboard for a multi-plant IT service desk, fed <b>directly from the Jira REST API</b>: SLA compliance, median response and resolution times, backlog, created vs. resolved and <b>recurring failures</b>.</p>
       <p>Pagination with <code>List.Generate</code> · 33 DAX measures · <code>TREATAS</code> · 4 pages.</p>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -45,7 +45,7 @@ Knowing the operation from the inside, I want data to drive decisions: I build *
       <img src="https://img.shields.io/badge/Jira%20API-0052CC?style=flat-square&logo=jira&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/RamaDiBer/powerbi-rentabilidad-cine">What makes a movie profitable?</a></h3>
+      <h3>🎬 <a href="https://github.com/Ramiro-DiBernardo/powerbi-rentabilidad-cine">What makes a movie profitable?</a></h3>
       <p>Analysis of <b>8,035 movies</b> combining budget, box office, ratings and Academy Awards.</p>
       <p>31 Power Query queries · star schema · 37 DAX measures · Tukey outlier rule · inflation adjustment.</p>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -55,14 +55,14 @@ Knowing the operation from the inside, I want data to drive decisions: I build *
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏭 <a href="https://github.com/RamaDiBer/powerbi-seguimiento-produccion">Production tracking</a></h3>
+      <h3>🏭 <a href="https://github.com/Ramiro-DiBernardo/powerbi-seguimiento-produccion">Production tracking</a></h3>
       <p>Operational dashboard for a device refurbishing line: units per stage, plan vs. actual, productivity per operator and work in progress.</p>
       <p>6 pages · 50+ DAX measures · lead time · ABC vs. scrap yield.</p>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
       <img src="https://img.shields.io/badge/DAX-1557b0?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>⏱️ <a href="https://github.com/RamaDiBer/powerbi-downtime">Systems downtime</a></h3>
+      <h3>⏱️ <a href="https://github.com/Ramiro-DiBernardo/powerbi-downtime">Systems downtime</a></h3>
       <p>Non-productive time caused by system failures on the shop floor, by cause, site and business unit, compared with the previous month.</p>
       <p>SharePoint source · durations converted to minutes in Power Query · <code>PREVIOUSMONTH</code>.</p>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -71,7 +71,7 @@ Knowing the operation from the inside, I want data to drive decisions: I build *
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔧 <a href="https://github.com/RamaDiBer/powerbi-laboratorio-celulares">Phone repair lab</a></h3>
+      <h3>🔧 <a href="https://github.com/Ramiro-DiBernardo/powerbi-laboratorio-celulares">Phone repair lab</a></h3>
       <p>Productivity vs. daily target per technician, repairability, OQC rework and failure categories, built on a hand-filled Excel with one sheet per technician.</p>
       <p>9 pages · 100+ DAX measures · IMEI validation (Luhn) · automatic data quality alerts.</p>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -79,7 +79,7 @@ Knowing the operation from the inside, I want data to drive decisions: I build *
       <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/RamaDiBer/powerbi-mejora-continua-demo">Continuous improvement tracker</a></h3>
+      <h3>📈 <a href="https://github.com/Ramiro-DiBernardo/powerbi-mejora-continua-demo">Continuous improvement tracker</a></h3>
       <p>One-page dashboard for the year's improvement initiatives: status, monthly implementations, sites and units, and economic impact.</p>
       <p>Synthetic demo data generated with Python.</p>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -88,13 +88,13 @@ Knowing the operation from the inside, I want data to drive decisions: I build *
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com/RamaDiBer/python-data-analysis">Python for data analysis</a></h3>
+      <h3>🐍 <a href="https://github.com/Ramiro-DiBernardo/python-data-analysis">Python for data analysis</a></h3>
       <p>From the basics to pandas: data quality checks, data integration, aggregations and IQR outliers, plus an OOP inventory app.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/RamaDiBer/data-mining-machine-learning">Data mining & machine learning</a></h3>
+      <h3>🧠 <a href="https://github.com/Ramiro-DiBernardo/data-mining-machine-learning">Data mining & machine learning</a></h3>
       <p>Neighborhood clustering on Boston Housing (K-Means, elbow, PCA, silhouette), plus course notebooks on supervised and unsupervised learning, NLP and CNNs.</p>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
       <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
@@ -103,7 +103,7 @@ Knowing the operation from the inside, I want data to drive decisions: I build *
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🔁 <a href="https://github.com/RamaDiBer/repair-returns-prediction">Which repaired phones come back?</a> ⭐</h3>
+      <h3>🔁 <a href="https://github.com/Ramiro-DiBernardo/repair-returns-prediction">Which repaired phones come back?</a> ⭐</h3>
       <p>Machine learning on real (anonymized) repair lab data: predicting which repaired devices return within 60 days, with leakage control and a time-based split.</p>
       <p>TF-IDF on technicians' notes · logistic regression vs. gradient boosting · ROC-AUC, PR-AUC and lift.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -156,11 +156,11 @@ Knowing the operation from the inside, I want data to drive decisions: I build *
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RamaDiBer&theme=tokyonight" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RamaDiBer&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramiro-DiBernardo&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ramiro-DiBernardo&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RamaDiBer&theme=tokyonight&hide_border=true&locale=en" />
+  <img src="https://streak-stats.demolab.com?user=Ramiro-DiBernardo&theme=tokyonight&hide_border=true&locale=en" />
 </p>
 
 ## 🎓 Education
