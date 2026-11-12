@@ -102,15 +102,13 @@ Knowing the operation from the inside, I want data to drive decisions: I build *
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3>🔁 <a href="https://github.com/RamaDiBer/repair-returns-prediction">Which repaired phones come back?</a> ⭐</h3>
       <p>Machine learning on real (anonymized) repair lab data: predicting which repaired devices return within 60 days, with leakage control and a time-based split.</p>
       <p>TF-IDF on technicians' notes · logistic regression vs. gradient boosting · ROC-AUC, PR-AUC and lift.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
       <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
