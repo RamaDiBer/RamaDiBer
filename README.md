@@ -110,6 +110,15 @@ Knowing the operation from the inside, I want data to drive decisions: I build *
   <img src="https://img.shields.io/badge/TCP%2FIP%20%26%20Networking-555?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
+**Work management**
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Planner-31752F?style=for-the-badge&logo=microsoftplanner&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/monday.com-FF3D57?style=for-the-badge&logo=mondaydotcom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white" />
+</p>
+
 **Methodologies:** Scrum · Agile · Continuous improvement · 5S
 
 ## 📊 GitHub stats
