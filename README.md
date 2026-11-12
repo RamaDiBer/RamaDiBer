@@ -77,6 +77,11 @@ Knowing the operation from the inside, I want data to drive decisions: I build *
       <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
     </td>
     <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/RamaDiBer/data-mining-machine-learning">Data mining & machine learning</a></h3>
+      <p>Neighborhood clustering on Boston Housing (K-Means, elbow, PCA, silhouette), plus course notebooks on supervised and unsupervised learning, NLP and CNNs.</p>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square" />
     </td>
   </tr>
 </table>
