@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1557b0"/>
+      <stop offset="1" stop-color="#4fa3ff"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 0H1200V170C1000 215 820 140 600 175C380 210 200 140 0 185Z" fill="url(#g)"/>
+  <text x="600" y="95" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Ramiro Di Bernardo</text>
+  <text x="600" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#eaf3ff">Data &amp; BI Analyst | Power BI | SQL | Python</text>
+</svg>
