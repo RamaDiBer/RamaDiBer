@@ -71,6 +71,23 @@ Knowing the operation from the inside, I want data to drive decisions: I build *
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>🔧 <a href="https://github.com/RamaDiBer/powerbi-laboratorio-celulares">Phone repair lab</a></h3>
+      <p>Productivity vs. daily target per technician, repairability, OQC rework and failure categories, built on a hand-filled Excel with one sheet per technician.</p>
+      <p>9 pages · 100+ DAX measures · IMEI validation (Luhn) · automatic data quality alerts.</p>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/DAX-1557b0?style=flat-square" />
+      <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/RamaDiBer/powerbi-mejora-continua-demo">Continuous improvement tracker</a></h3>
+      <p>One-page dashboard for the year's improvement initiatives: status, monthly implementations, sites and units, and economic impact.</p>
+      <p>Synthetic demo data generated with Python.</p>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🐍 <a href="https://github.com/RamaDiBer/python-data-analysis">Python for data analysis</a></h3>
       <p>From the basics to pandas: data quality checks, data integration, aggregations and IQR outliers, plus an OOP inventory app.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
